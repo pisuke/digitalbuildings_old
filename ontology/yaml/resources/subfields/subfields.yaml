@@ -106,7 +106,7 @@ descriptor:
   north: "Cardinal direction; opposite of south"
   occupancy: "State of being occupied."
   occupied: "State of being within scheduled (time of day or week) run-time parameters."
-  ongoing: "Hapenning currently, right now."
+  ongoing: "Happening currently, right now."
   output: "The output of a control loop (e.g. PID Loop Output)"
   outside: "Process or measurement of local atmospheric conditions."
   phase1: "The first (nominally A) phase of three-phase power distribution systems."
